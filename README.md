@@ -41,7 +41,7 @@ This application was deployed using Heroku and JawsDB.
 
 * **Hadi Yousufi** - *Database,User Interface* - [HadiCodes](https://github.com/hadicodes)
 * **Sunny Ali** - *Thread Routes* - [Ali023](https://github.com/ali023)
-* **Chris Long** - *Authentication (Passport)* - [Kjige](https://github.com/kjige)
+* **Chris Leong** - *Authentication (Passport)* - [Kjige](https://github.com/kjige)
 * **Cassie Pericak** - *Handlebars, Post Routes* - [Cpericak823](https://github.com/cpericak823)
 
 
